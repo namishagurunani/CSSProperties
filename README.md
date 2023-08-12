@@ -5,12 +5,12 @@
 The 'h4' in the CSS defines a gradient background, white text color, centered alignment, and padding. This creates an eye-catching header with a promotional message.
 - Navigation Bar ('nav class="navbar"'):
 The navbar class styles the navigation bar at the top of the page. It sets a black background, sticky position, white text color, and padding for spacing.
-Inside this navigation bar, the 'h5' elements represent navigation links for different categories, and they have a margin for spacing.
+Inside this navigation bar, the "h5" elements represent navigation links for different categories, and they have a margin for spacing.
 The input element and search icon are styled to form a search bar.
 - Top Page Title ('section class="sale"'):
 The "sale"-title class styles the top section of the page. It sets a background image, text color, and padding for spacing.
 The header inside this section has a semi-transparent background for better readability of the title and description text.
-- Mid Trending Section ('section class=""category-1""'):
+- Mid Trending Section ('section class="category-1"'):
 The "category-1" class gives padding and a light background color to the trending section.
 The "sub" class styles the container for the trending items. It gives a slightly darker background and margin for spacing.
 Inside this container, each "tr" class styles an individual item box with a set height, width, background color, and white text. This creates a grid-like display of images and captions.
