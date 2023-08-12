@@ -5,7 +5,7 @@
 The top class in the CSS defines a gradient background, white text color, centered alignment, and padding. This creates an eye-catching header with a promotional message.
 - Navigation Bar ('nav class="navbar"'):
 The navbar class styles the navigation bar at the top of the page. It sets a black background, sticky position, white text color, and padding for spacing.
-Inside this navigation bar, the <u>'h5'</u> elements represent navigation links for different categories, and they have a margin for spacing.
+Inside this navigation bar, the 'h5' elements represent navigation links for different categories, and they have a margin for spacing.
 The input element and search icon are styled to form a search bar.
 - Top Page Title ('section class="top-page-title"'):
 The top-page-title class styles the top section of the page. It sets a background image, text color, and padding for spacing.
