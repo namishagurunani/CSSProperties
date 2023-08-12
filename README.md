@@ -1,4 +1,5 @@
-# CSSProperties
+# CSSProperties UI-->
+
 # Explanation:
 - Top Section ('div class="top"'):
 The top class in the CSS defines a gradient background, white text color, centered alignment, and padding. This creates an eye-catching header with a promotional message.
