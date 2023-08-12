@@ -1,4 +1,6 @@
 # CSSProperties UI-->
+![image](https://github.com/namishagurunani/CSSProperties/assets/126158413/12398896-f56a-476e-be8e-2e055ca744c8)
+![image](https://github.com/namishagurunani/CSSProperties/assets/126158413/d83812da-320e-40cb-95ce-170545c04cd0)
 
 # Explanation:
 - Top Section ('h4'):
